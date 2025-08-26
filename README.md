@@ -1,4 +1,4 @@
-# nothongWeather天氣 Widget App 介紹
+# nothongWeather 天氣小工具 widget 介紹
 
 ## 功能特色
 
@@ -11,14 +11,11 @@
 
 ---
 
-## 操作畫面
+## 實機使用畫面
 
-（此區留空，後續可上傳 Widget 與 App 的截圖展示）
-
-* 中型 Widget 預覽
-* 大型 Widget 預覽
-* 設定頁面畫面
-* 關於頁面
+<img width="300" alt="IMG_6203-portrait_1320x2868_white_resized" src="https://github.com/user-attachments/assets/130ba58b-72b5-40d9-bc81-3486b4da3f9e" />
+<img width="300" alt="IMG_6206-portrait_1320x2868_white_resized" src="https://github.com/user-attachments/assets/2e45578c-f364-4c3c-9cab-43aec897693b" />
+<img width="300" alt="IMG_6207-portrait_1320x2868_white_resized" src="https://github.com/user-attachments/assets/79a97938-5f14-4e15-b0e5-d425ce3ae57b" />
 
 ---
 
