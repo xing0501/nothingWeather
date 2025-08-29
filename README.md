@@ -43,9 +43,9 @@
 
 ---
 
- Weather
-Legal Attribution
-https://weatherkit.apple.com/legal-attribution.html
+ Weather <br/>
+Legal Attribution <br/>
+https://weatherkit.apple.com/legal-attribution.html <br/>
 
 ---
 
