@@ -46,6 +46,8 @@
  Weather <br/>
 Legal Attribution <br/>
 https://weatherkit.apple.com/legal-attribution.html <br/>
-
+<br/>
+WeatherApi<br/>
+https://www.weatherapi.com<br/>
 ---
 
